@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="center">My name is Felippe Cardoso and I'm a DevOps Engineer.</h4>
+<h4 align="center">My name is Felippe Cardoso and I'm a Front-end developer and DevOps enthusiast.</h4>
 
 ###
 
