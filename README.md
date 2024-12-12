@@ -1,22 +1,7 @@
-<br clear="both">
-
-<h2 align="center">Hi there👋!</h2>
-
-###
-
-<h4 align="center">My name is Felippe Cardoso and I'm a Front-end developer and DevOps enthusiast.</h4>
-
-###
-
-<br clear="both">
-
 <div align="center">
-  <img height="300" src="https://media.tenor.com/Y4-hpx-ALScAAAAj/besos-gif.gif"  />
+   <h1>Hi there, I'm Kiev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
-
-###
-
-<div align="center">
+<p align='center'>
   <a href="https://www.linkedin.com/in/kievdevops" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -26,41 +11,63 @@
   <a href="mailto:kievdevops@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/felippec18/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
+  <a href='https://ko-fi.com/Q5Q617BQD8' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</p>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github" height="42" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="42" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="42" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="42" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=atom" height="42" alt="atom logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="42" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="42" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="42" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="42" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="42" alt="kubernetes logo"  />
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨‍💻 Felippe Cardoso | 💻 Full Stack Developer | 🗺️ Brazil, Switzerland <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
+<h5 align="center">
+   <i>⚡️ I don’t trust people who don’t write SQL queries in uppercase ⚡️</i>
+</h5>
+<br />
+<img align="right" height="350px" width="450px" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJ0Zm85dzlvN242bG4zNG82bDNweXB3anc1anhjdnN2ZjMyejNtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.webp" />
+<p align="center">
+  <h3> I'm 24 years old, Full-Stack developer known mostly as Kiev.</h3>
+</p>
 
-###
+ - ✍️ Learning DevOps & Deutsch
 
-<div align="center">
-  <img height="160" src="https://media.tenor.com/qJRMLPlR3_8AAAAi/maxwell-cat.gif"  />
-</div>
+ - ⌨️ Javascript, React, Typescript
 
-###
+ - ⚔️ From Software / Souls fanboy
+
+ - ☕ I'll never refuse a cup of coffee
+
+ - :heart: I do fullstack and a bit of everything
+
+ - 😁 All about living life at it's best.
+
+<br />
+
+### - Languages and Tools...
+<br />
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" style="vertical-align:top; margin:4px">    
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="saas" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" style="vertical-align:top; margin:4px">
+</p>
+<br />
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<br />
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=314h5plbg4pkdmvu6hsbivdlvooq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
+</p>
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=314h5plbg4pkdmvu6hsbivdlvooq">
+</p>
+<br />
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
