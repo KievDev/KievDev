@@ -14,10 +14,10 @@
   <a href='https://ko-fi.com/Q5Q617BQD8' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨‍💻 Felippe Cardoso | 💻 Full Stack Developer | 🗺️ Brazil, Switzerland <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨‍💻 Felippe Cardoso | 💻 Full Stack Developer | 🗺️ Brazil, Rio de Janeiro <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 <h5 align="center">
-   <i>⚡️ I don’t trust people who don’t write SQL queries in uppercase ⚡️</i>
+   <i>⚡️ If you want to know me better: coffee, cats, wine and code ⚡️</i>
 </h5>
 <br />
 <img align="right" height="350px" width="450px" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJ0Zm85dzlvN242bG4zNG82bDNweXB3anc1anhjdnN2ZjMyejNtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.webp" />
@@ -29,7 +29,7 @@
 
  - ⌨️ Javascript, React, Typescript
 
- - ⚔️ From Software / Souls fanboy
+ - ⚔️ From Software / Souls fan
 
  - ☕ I'll never refuse a cup of coffee
 
