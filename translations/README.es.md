@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm Kiev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+   <h1>Hola, soy Kiev. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
 <p align='center'>
   <a href="https://www.linkedin.com/in/kievdevops" target="_blank">
@@ -13,40 +13,34 @@
   </a>
   <a href='https://ko-fi.com/Q5Q617BQD8' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
-<p align='center'>You can read this in other languages:</p>
-
-<kbd>[<img title="Português (Brasil)" alt="Português (Brasil)" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](translations/README.pt_br.md)</kbd>
-<kbd>[<img title="Deutsch" alt="Deutsch" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](translations/README.de.md)</kbd>
-<kbd>[<img title="Española" alt="Española" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](translations/README.es.md)</kbd>
-<kbd>[<img title="Русский язык" alt="Русский язык" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ru.svg" width="22">](translations/README.ru.md)</kbd>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨‍💻 Felippe Cardoso | 💻 Full Stack Developer | 🗺️ Brazil, Rio de Janeiro <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨‍💻 Felippe Cardoso | 💻 Desarrollador Full Stack | 🗺️ Brazil, Rio de Janeiro <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 <h5 align="center">
-   <i>⚡️ If you want to know me better: coffee, cats, wine and code ⚡️</i>
+   <i>⚡️ Si quieres conocerme mejor: café, gatos, vino y código. ⚡️</i>
 </h5>
 <br />
 <img align="right" height="350px" width="450px" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJ0Zm85dzlvN242bG4zNG82bDNweXB3anc1anhjdnN2ZjMyejNtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.webp" />
 <p align="center">
-  <h3> I'm 24 years old, Full-Stack developer known mostly as Kiev.</h3>
+  <h3> Tengo 24 años, soy un desarrollador Full-Stack conocido principalmente como Kiev.</h3>
 </p>
 
-- ✍️ Learning DevOps & Deutsch
+- ✍️ Estoy aprendiendo DevOps y alemán
 
 - ⌨️ Javascript, React, Typescript
 
 - ⚔️ From Software / Souls fan
 
-- ☕ I'll never refuse a cup of coffee
+- ☕ Nunca rechazaré una taza de café.
 
-- :heart: I do fullstack and a bit of everything
+- :heart: Hago full stack y un poco de todo
 
-- 😁 All about living life at its best.
+- 😁 Todo sobre vivir la vida en su máxima expresión.
 
 <br />
 
-### - Languages and Tools...
+### - Idiomas y Herramientas...
 
 <br />
 <p align="center">
@@ -67,7 +61,7 @@
   <img src ="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vue" style="vertical-align:top; margin:4px">
 </p>
 <br />
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<h1 align='center'>⚡️<i>Mantente increíble!</i>⚡️</h1>
 <br />
 <p align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=314h5plbg4pkdmvu6hsbivdlvooq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
