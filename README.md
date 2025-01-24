@@ -50,7 +50,8 @@
 
 <br />
 <br />
-## - Languages and Tools...
+
+## Languages and Tools...
 
 <br />
 <p align="center">
