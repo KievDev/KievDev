@@ -59,6 +59,17 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" style="vertical-align:top; margin:4px">
   <img src ="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vue" style="vertical-align:top; margin:4px">
+     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="expressjs" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactnative" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="materialui" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="reactrouter" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" alt="nextjs" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" style="vertical-align:top; margin:4px">
 </p>
 <br />
 <h1 align='center'>⚡️<i>Mantente increíble!</i>⚡️</h1>
