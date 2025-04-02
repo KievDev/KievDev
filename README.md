@@ -25,10 +25,10 @@
 </div>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨‍💻 Felippe Cardoso | 💻 Full Stack Developer | 🗺️ Brazil, Rio de Janeiro <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3> 👨‍💻 Felippe Cardoso | 💻 Full Stack Developer | 🗺️ Brazil, Rio de Janeiro </h3>
 </div>
 <h5 align="center">
-   <i>⚡️ If you want to know me better: coffee, cats, wine and code ⚡️</i>
+   <i>⚡️ If you want to know me better: coffee, cats, lots of code ⚡️</i>
 </h5>
 <br />
 <img align="right" height="350px" width="450px" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJ0Zm85dzlvN242bG4zNG82bDNweXB3anc1anhjdnN2ZjMyejNtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.webp" />
