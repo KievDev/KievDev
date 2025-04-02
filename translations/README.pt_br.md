@@ -15,10 +15,10 @@
 </p>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨‍💻 Felippe Cardoso | 💻 Desenvolvedor Full-Stack | 🗺️ Brasil, Rio de Janeiro <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3> 👨‍💻 Felippe Cardoso | 💻 Desenvolvedor Full-Stack | 🗺️ Brasil, Rio de Janeiro </h3>
 </div>
 <h5 align="center">
-   <i>⚡️ Se quiser me conhecer melhor: café, gatos, vinho e código ⚡️</i>
+   <i>⚡️ Se quiser me conhecer melhor: café, gatos, muito código ⚡️</i>
 </h5>
 <br />
 <img align="right" height="350px" width="450px" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJ0Zm85dzlvN242bG4zNG82bDNweXB3anc1anhjdnN2ZjMyejNtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.webp" />
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" style="vertical-align:top; margin:4px">
   <img src ="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vue" style="vertical-align:top; margin:4px">
-     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="expressjs" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="expressjs" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactnative" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="materialui" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="reactrouter" style="vertical-align:top; margin:4px">
