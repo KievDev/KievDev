@@ -2,7 +2,7 @@
    <h1>Hi there, I'm Kiev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
 <p align='center'>
-  <a href="www.linkedin.com/in/kievdev" target="_blank">
+  <a href="https://www.linkedin.com/in/kievdev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/users/kievdevops" target="_blank">
