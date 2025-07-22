@@ -40,7 +40,7 @@
    <table align="center">
      <tr>
        <td>
-         <img align="left" height="450px" width="450px" alt="GIF" src="https://scontent.fsdu12-1.fna.fbcdn.net/v/t39.30808-6/500229905_2357804571286345_1262887812139631707_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=2qLJBMgW-oQQ7kNvwGL3Uvf&_nc_oc=AdmHI1drKiuQ7IfUJPQrIJlvVvcfRdEWcd-9L3bQHZ04pKmoAd_Uw3zWZasx3PJf4nYTpJneKPkmhAr7C5ZqMqjD&_nc_zt=23&_nc_ht=scontent.fsdu12-1.fna&_nc_gid=SR_dmHFb6zB_bqIw8DBZYQ&oh=00_AfTgnvfwVH-BG-VmlfajvM2suuH3wfbpNkaAYc3SvAYh0Q&oe=687CB721" />
+         <img align="left" height="450px" width="450px" alt="cat pic" src="https://scontent.fsdu12-1.fna.fbcdn.net/v/t39.30808-6/500229905_2357804571286345_1262887812139631707_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8aOZdqckVTkQ7kNvwGkw2Mz&_nc_oc=Admj_ps0w5uPpiXV4mTrV7EhN95a4q85C2yZkZxiNSwQ4VcOlnjEjILr1CAwAfUsG5iR6n7ZVq-LuKJtA4tPmkSS&_nc_zt=23&_nc_ht=scontent.fsdu12-1.fna&_nc_gid=7KVFKCZD6a4DvSCfgfwCEQ&oh=00_AfSFG9RBNP9Ot2lnpMa8IGd340_4y8LaFNAVh5SLjacjSg&oe=6884A021" />
        </td>
        <td style="padding-left: 15px;">
          <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=314h5plbg4pkdmvu6hsbivdlvooq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
